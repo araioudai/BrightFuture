@@ -22,9 +22,7 @@
 
 <br>
 
-<div>
-<iframe src="https://youtu.be/A03Nol5yV3g"></iframe>
-</div>
+<video src="https://youtu.be/A03Nol5yV3g" controls="true"></video>
 
 <br>
 
