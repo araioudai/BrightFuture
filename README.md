@@ -21,7 +21,7 @@
 など
 
 <div>
-<iframe width="600" height="400" src="https://youtu.be/A03Nol5yV3g"></iframe>
+<iframe src="https://youtu.be/A03Nol5yV3g"></iframe>
 </div>
 
 <br>
