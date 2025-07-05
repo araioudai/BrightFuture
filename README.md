@@ -20,7 +20,7 @@
 
 <br>
 
-▶ [BrightFuture 動画ページを開く（GitHub Pages）](https://araioudai.github.io/BrightFuture/)
+▶ [BrightFuture 動画ページを開く（下の画像をタップでも開けます）](https://araioudai.github.io/BrightFuture/)
 
 [![動画を見る](https://img.youtube.com/vi/A03Nol5yV3g/0.jpg)](https://araioudai.github.io/BrightFuture/)
 
