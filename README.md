@@ -21,7 +21,8 @@
 <br>
 
 <div>
-<iframe width="600" height="400" src="https://www.youtube.com/embed/A03Nol5yV3g"></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/A03Nol5yV3g">
+</iframe>
 </div>
 
 [作品動画説明](https://youtu.be/A03Nol5yV3g "作品説明へ")
