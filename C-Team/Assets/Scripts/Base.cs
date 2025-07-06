@@ -14,7 +14,7 @@ public class Base : MonoBehaviour
     protected static float gauge;         //ゲージ用
     protected static bool hide;           //テキストを隠すフラグ
     protected static bool timerStart;     //タイマー用フラグ
-    protected static bool gameOver;       //ゲームオーバーフラグ
+    public static bool gameOver;          //ゲームオーバーフラグ
     protected static bool buttonDel;
 
     // Start is called before the first frame update

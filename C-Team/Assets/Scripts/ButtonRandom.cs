@@ -8,6 +8,7 @@ public class ButtonRandom : MonoBehaviour
     //ボタンのプレハブを配列で登録
     public GameObject[] randombuttonPrefabs;
     public Transform buttonParent;
+    public GameObject buttonPare;
 
     public Vector2[] positions = new Vector2[]
     {
@@ -23,6 +24,13 @@ public class ButtonRandom : MonoBehaviour
     void Start()
     {
         SpawnRandomButtons();
+    }
+    void Update()
+    {
+        if (Base.gameOver == false)
+        {
+            buttonPare.SetActive(true);
+        }
     }
 
     public void SpawnRandomButtons()
@@ -54,12 +62,5 @@ public class ButtonRandom : MonoBehaviour
 
         // 新しいボタンを生成
         SpawnRandomButtons();
-    }
-
-
-// Update is called once per frame
-    void Update()
-    {
-        
     }
 }
