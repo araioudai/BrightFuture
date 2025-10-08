@@ -5,7 +5,7 @@
 <br>
 操作方法はシンプルでクリック（タップ）操作のみとなります。
 <br>
-<span style="color: red; ">「さく」</span>というテーマを元にの<span style="color: red; ">ゲームジャムイベントにて制作</span>しました。
+<span style="color: red; ">「さく」</span>というテーマを元に<span style="color: red; ">ゲームジャムイベントにて制作</span>しました。
 <br>
 イベント内の投票の結果、<span style="color: red; ">12チーム中プレゼン、ゲーム内容の両ジャンルとも3位</span>を獲得しました。
 
@@ -105,4 +105,5 @@ flowchart LR
 - シーン遷移と遷移時のフェード処理
 - 全体結合
 <br>
+
 など
